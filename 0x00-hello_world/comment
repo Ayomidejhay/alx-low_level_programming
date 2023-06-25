@@ -1,0 +1,6 @@
+1 #include <stdio.h>
+  2 /**
+  3   * main - Entry point
+  4   *
+  5   *Return: Always 0 (Success)
+  6   */
