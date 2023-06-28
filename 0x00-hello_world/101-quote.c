@@ -1,8 +1,8 @@
-#include<unistd.h>
+#include <unistd.h>
 /**
-  * Main - entry
+  *main - prints a given string
   *
-  * Return
+  * Return: Always 0
   */
 int main(void)
 {
